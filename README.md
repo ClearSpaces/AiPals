@@ -35,4 +35,4 @@ Ethical Standards: Always advocating for the ethical development and use of AI.
 #### We invite you to join our journey as we explore the vast world of AI, ensuring it's used ethically and responsibly for the betterment of all.
 We need active partners or pals, we need an avatar, we also need a logo. We appreciate your support! We are working on a website but for now, we are creating content for GitHub pages.
 ###### If interested please contact me at:   
-##### 📫jesuscarrasco@iapals.dev 📫
+##### 📫Support@iapals.dev 📫
